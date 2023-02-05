@@ -1,0 +1,1 @@
+export 'package:showingcli/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
